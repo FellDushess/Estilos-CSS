@@ -1,0 +1,44 @@
+/*
+colores de mi sitio web
+primary: #191825
+secundary: #865DFF
+light: #E384FF
+info: #FFA3FD
+*/
+
+*{
+    border-style: double;
+}
+
+h1{
+    color: #781a94;
+}
+p{
+    color: rgb(201, 185, 134);
+}
+.bg-primary{
+    background-color: #e9be7e;
+    border-style: dotted;
+}
+.text-light{
+    color:rgb(230, 11, 102);
+}
+.text-secundary{
+    color: #ff5d80;
+}
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: left;
+}
+.width-100{
+    width: 100px;
+}
+.bg-info{
+    background-color: #492905;
+}
+
+body{
+    background-color: #e2c9a3;
+}
